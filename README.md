@@ -93,10 +93,6 @@ total expenses and income, rendering them along with the category-wise data, and
 
 
 
-
-
-
-
 **Video Explaining the output** - 
 
 
