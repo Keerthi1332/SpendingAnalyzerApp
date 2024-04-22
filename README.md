@@ -103,6 +103,25 @@ total expenses and income, rendering them along with the category-wise data, and
 **Links to the Files** - 
 
 
+[App.js](https://github.com/Keerthi1332/SpendingAnalyzerApp/blob/main/App.tsx)
+
+[HomeScreen.js](https://github.com/Keerthi1332/SpendingAnalyzerApp/blob/main/screens/HomeScreen.js)
+
+[SignUpScreen.js](https://github.com/Keerthi1332/SpendingAnalyzerApp/blob/main/screens/SignUpScreen.js)
+
+[LoginScreen.js](https://github.com/Keerthi1332/SpendingAnalyzerApp/blob/main/screens/LoginScreen.js)
+
+[MenuScreen.js](https://github.com/Keerthi1332/SpendingAnalyzerApp/blob/main/screens/MenuScreen.js)
+
+[Expense.js](https://github.com/Keerthi1332/SpendingAnalyzerApp/blob/main/screens/Expenses.js)
+
+[Income.js](https://github.com/Keerthi1332/SpendingAnalyzerApp/blob/main/screens/Income.js)
+
+[Categories.js](https://github.com/Keerthi1332/SpendingAnalyzerApp/blob/main/screens/Categories.js)
+
+[Reports.js](https://github.com/Keerthi1332/SpendingAnalyzerApp/blob/main/screens/Reports.js)
+
+
 
 
 
