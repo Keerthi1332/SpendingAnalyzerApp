@@ -100,6 +100,11 @@ total expenses and income, rendering them along with the category-wise data, and
 **Video Explaining the output** - 
 
 
+
+https://github.com/Keerthi1332/SpendingAnalyzerApp/assets/156622724/f8c8414c-52c0-4462-97a1-f026a2f69f96
+
+
+
 **Links to the Files** - 
 
 
