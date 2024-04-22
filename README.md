@@ -11,7 +11,7 @@
 The Spending Analyzer app is designed to assist users in efficiently recording their income and expenditures, enabling them to effortlessly monitor and evaluate their budgets and 
 spending patterns. The following is the explanation of the different .js files designed for our app along with the outputs:
 
-**App.js** - 
+**App.tsx** - 
 This file serves as the entry point for our React Native application, defining the navigation stack using React Navigation. It includes screens for home, login, signup, menu, 
 expenses, income, categories, and reports, facilitating seamless navigation throughout the app's features.
 
@@ -103,7 +103,7 @@ total expenses and income, rendering them along with the category-wise data, and
 **Links to the Files** - 
 
 
-[App.js](https://github.com/Keerthi1332/SpendingAnalyzerApp/blob/main/App.tsx)
+[App.tsx](https://github.com/Keerthi1332/SpendingAnalyzerApp/blob/main/App.tsx)
 
 [HomeScreen.js](https://github.com/Keerthi1332/SpendingAnalyzerApp/blob/main/screens/HomeScreen.js)
 
