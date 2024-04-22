@@ -6,7 +6,7 @@
 
 2. Yukta Ventrapragada - M15887062
 
-# App Description -
+# App Description and Code Explanation -
 
 The Spending Analyzer app is designed to assist users in efficiently recording their income and expenditures, enabling them to effortlessly monitor and evaluate their budgets and 
 spending patterns. The following is the explanation of the different .js files designed for our app along with the outputs:
@@ -93,7 +93,15 @@ total expenses and income, rendering them along with the category-wise data, and
 
 
 
+
+
+
+
 **Video Explaining the output** - 
+
+
+**Links to the Files** - 
+
 
 
 
